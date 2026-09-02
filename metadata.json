@@ -1,0 +1,8 @@
+{
+  "name": "Schule Lernportal & Windows Explorer",
+  "description": "Schul- und Lernportal mit Windows-1:1-Dateiexplorer, integriertem Microsoft Word-Editor, Excel-Tabellen, PowerPoint-Viewer und interaktiven Lernwerkzeugen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
